@@ -1,0 +1,19 @@
+{
+    "version": "1.0",
+    "session": {
+        "new": true,
+        "sessionId": "session0001",
+        "application": {
+            "applicationId": "amzn1.echo-sdk-ams.0001"
+        },
+        "attributes": {},
+        "user": {
+            "userId": null
+        }
+    },
+    "request": {
+        "type": "LanuchRequest",
+        "requestId": "request0001",
+        "timestamp": "2029-08-11T13:04:56+0900"
+    }
+}
